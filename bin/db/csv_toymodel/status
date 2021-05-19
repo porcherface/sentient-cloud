@@ -1,0 +1,27 @@
+# status
+
+last_update = [MISSING]
+consistency = [MISSING]
+
+# coins
+COINS = ETH-USD,BTC-USD,BNB-USC
+
+# grains
+ETH:  
+300 
+3600
+86400
+
+BTC: 
+300 
+3600
+86400
+
+BNB:
+300
+3600
+86400
+
+#dates
+
+[MISSING]
